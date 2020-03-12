@@ -10,7 +10,7 @@ Esse projeto foi desenvolvido na sala de aula como forma didática e com os prog
 ### Pré Requisitos
 
 -HeidiSQL
--Workbech
+-Workbench
 -Xampp/WampServer
 
 ## Autor
