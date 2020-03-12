@@ -15,7 +15,7 @@ Esse projeto foi desenvolvido na sala de aula como forma didática e com os prog
 
 ## Autor
 
-* **Gabriel Belo Dias** - *trabalho inicial* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Gabriel Belo Dias** - *trabalho inicial* - [GabrielBeloDias](https://github.com/Gabriel1696)
 
 
 
