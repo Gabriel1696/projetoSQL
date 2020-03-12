@@ -2,24 +2,18 @@
 
 Primeiro projeto desenvolvido em SQL em sala de aula.
 
-## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+## Desenvolvimento
 
-### Prerequisites
+Esse projeto foi desenvolvido na sala de aula como forma didática e com os programas citados abaixo.
+
+### Pré Requisitos
 
 -HeidiSQL
 -Workbech
 -Xampp/WampServer
 
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-
-
-## Authors
+## Autor
 
 * **Gabriel Belo Dias** - *trabalho inicial* - [PurpleBooth](https://github.com/PurpleBooth)
 
