@@ -1,4 +1,4 @@
-# Projeto em SQL-CONCESSIONÁRIA![icone](https://github.com/Gabriel1696/projetoSQL/blob/master/icons8-edif%C3%ADcio-da-concession%C3%A1ria-de-autom%C3%B3veis-50.png       
+# Projeto em SQL-CONCESSIONÁRIA![icone](https://github.com/Gabriel1696/projetoSQL/blob/master/icons8-edif%C3%ADcio-da-concession%C3%A1ria-de-autom%C3%B3veis-50.png)       
 
 Primeiro projeto desenvolvido em SQL em sala de aula.
 
